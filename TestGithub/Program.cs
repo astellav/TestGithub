@@ -7,7 +7,8 @@ namespace TestGithub
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, Git.");
+            Console.WriteLine("Hello, GitHub plugin in Visual Studio.");
+            Console.ReadLine();
         }
     }
 }
