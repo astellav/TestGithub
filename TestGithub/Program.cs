@@ -7,7 +7,7 @@ namespace TestGithub
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, GitHub plugin in Visual Studio. Now I'm going to branch out into dev.");
+            Console.WriteLine("Hello, GitHub plugin in Visual Studio. This is development first.");
             Console.ReadLine();
         }
     }
